@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<captured version="1" backtrace_processing="perf" type="Perf" protocol="931" created="1741631375">
+  <target sample_rate="1009" sample_rate_gpu="2003" name="unknown" cores="72" gpu_cores="0" gatord_src_md5sum="e997458fc6577c88b8ca72cc0de8ec1b" gatord_build_id="58369bf" cpuid="0x41d4f" supports_live="yes" local_capture="yes" os="linux" />
+  <counters>
+    <counter key="0x18" type="ARMv9_Neoverse_V2_metric_backend_bound" />
+    <counter key="0x1c" type="ARMv9_Neoverse_V2_metric_backend_stalled_cycles" />
+    <counter key="0x1e" type="ARMv9_Neoverse_V2_metric_bad_speculation" />
+    <counter key="0x22" type="ARMv9_Neoverse_V2_metric_branch_misprediction_ratio" />
+    <counter key="0x24" type="ARMv9_Neoverse_V2_metric_branch_mpki" />
+    <counter key="0x38" type="ARMv9_Neoverse_V2_metric_frontend_bound" />
+    <counter key="0x3a" type="ARMv9_Neoverse_V2_metric_frontend_stalled_cycles" />
+    <counter key="0x3c" type="ARMv9_Neoverse_V2_metric_integer_dp_percentage" />
+    <counter key="0x3e" type="ARMv9_Neoverse_V2_metric_ipc" />
+    <counter key="0x44" type="ARMv9_Neoverse_V2_metric_l1d_cache_miss_ratio" />
+    <counter key="0x46" type="ARMv9_Neoverse_V2_metric_l1d_cache_mpki" />
+    <counter key="0x4c" type="ARMv9_Neoverse_V2_metric_l1i_cache_miss_ratio" />
+    <counter key="0x4e" type="ARMv9_Neoverse_V2_metric_l1i_cache_mpki" />
+    <counter key="0x54" type="ARMv9_Neoverse_V2_metric_l2_cache_miss_ratio" />
+    <counter key="0x56" type="ARMv9_Neoverse_V2_metric_l2_cache_mpki" />
+    <counter key="0x5c" type="ARMv9_Neoverse_V2_metric_l2d_cache_miss_ratio" />
+    <counter key="0x5e" type="ARMv9_Neoverse_V2_metric_l2d_cache_mpki" />
+    <counter key="0x60" type="ARMv9_Neoverse_V2_metric_l3_cache_miss_ratio" />
+    <counter key="0x62" type="ARMv9_Neoverse_V2_metric_l3_cache_mpki" />
+    <counter key="0x66" type="ARMv9_Neoverse_V2_metric_ll_cache_read_hit_ratio" />
+    <counter key="0x68" type="ARMv9_Neoverse_V2_metric_ll_cache_read_miss_ratio" />
+    <counter key="0x6a" type="ARMv9_Neoverse_V2_metric_ll_cache_read_mpki" />
+    <counter key="0x6c" type="ARMv9_Neoverse_V2_metric_load_percentage" />
+    <counter key="0x76" type="ARMv9_Neoverse_V2_metric_retiring" />
+    <counter key="0x78" type="ARMv9_Neoverse_V2_metric_scalar_fp_percentage" />
+    <counter key="0x7a" type="ARMv9_Neoverse_V2_metric_simd_percentage" />
+    <counter key="0x7c" type="ARMv9_Neoverse_V2_metric_store_percentage" />
+    <counter key="0x84" type="ARMv9_Neoverse_V2_metric_sve_all_percentage" />
+    <counter key="0x4" counter="ARM_Mali-CONST_BUS_WIDTH_BITS" title="Mali Constants" name="Bus Width Bits" class="constant" mode="per-core" />
+    <counter key="0x6" counter="ARM_Mali-CONST_L2_SLICE_COUNT" title="Mali Constants" name="L2 Slice Count" class="constant" mode="per-core" />
+    <counter key="0x8" counter="ARM_Mali-CONST_SHADER_CORE_COUNT" title="Mali Constants" name="Shader Core Count" class="constant" mode="per-core" />
+  </counters>
+</captured>

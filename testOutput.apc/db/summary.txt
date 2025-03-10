@@ -1,0 +1,101 @@
+Capture
+duration: 13.172949536 s
+
+Metadata
+
+Target
+system date: Mon Mar 10 18:29:16 UTC 2025
+uptime: 2861762.202831030
+monotonic delta: 2861743.434001568
+clock monotonic start: 2861762.202723477
+time of day since Unix epoch: 2861762202831030 ns
+Capture Attributes:
+'PAGESIZE': '4096'
+'nosync''perf.can_access_tracepoints': '0'
+'perf.devices.armv8_pmuv3_0.caps.bus_slots': '0x00000000'
+'perf.devices.armv8_pmuv3_0.caps.bus_width': '0x00000000'
+'perf.devices.armv8_pmuv3_0.caps.slots': '0x00000008'
+'perf.devices.armv8_pmuv3_0.type': '8'
+'perf.devices.breakpoint.type': '5'
+'perf.devices.cs_etm.type': '9'
+'perf.devices.kprobe.type': '6'
+'perf.devices.software.type': '1'
+'perf.devices.tracepoint.type': '2'
+'perf.devices.uprobe.type': '7'
+'perf.has_attr_context_switch': '1'
+'perf.is_root': '0'
+'perf.is_system_wide': '0'
+'uname': 'Linux gh-1.zoo.local 6.1.112-1.el9.elrepo.aarch64 #1 SMP PREEMPT_DYNAMIC Mon Sep 30 13:30:06 EDT 2024 aarch64 GNU/Linux'
+Core details:
+core (cpu):0:0: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:1: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:2: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:3: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:4: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:5: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:6: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:7: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:8: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:9: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:10: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:11: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:12: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:13: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:14: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:15: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:16: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:17: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:18: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:19: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:20: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:21: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:22: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:23: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:24: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:25: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:26: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:27: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:28: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:29: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:30: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:31: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:32: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:33: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:34: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:35: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:36: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:37: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:38: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:39: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:40: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:41: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:42: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:43: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:44: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:45: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:46: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:47: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:48: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:49: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:50: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:51: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:52: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:53: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:54: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:55: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:56: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:57: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:58: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:59: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:60: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:61: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:62: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:63: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:64: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:65: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:66: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:67: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:68: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:69: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:70: Neoverse-V2 (0x41d4f) [null]
+core (cpu):0:71: Neoverse-V2 (0x41d4f) [null]
